@@ -27,23 +27,23 @@ p{
     background-attachment: fixed;
 }
 .img1{
-    background-image: url('../images/1.jpg');
+    background-image: url('../1.jpg');
     height: 100vh;
     min-width: 100vh;
     
 }
 .img2{
-    background-image: url('../images/2.jpg');
+    background-image: url('../2.jpg');
     min-height: 90vh;
     min-width: 100vh;
 }
 .img3{
-    background-image: url('../images/4.jpg');
+    background-image: url('../4.jpg');
     min-height: 90vh;
     min-width: 100vh;
 }
 .img4{
-    background-image: url('../images/1.jpg');
+    background-image: url('../1.jpg');
     min-height: 100vh;
     min-width: 100vh;
 }
